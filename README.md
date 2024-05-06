@@ -17,5 +17,5 @@ Quiz Forge is a comprehensive Java Object-Oriented Programming (OOP) project dev
 3. **Build and Run:** Build the project in NetBeans IDE and run the Quiz Forge application to start crafting quizzes.
 
 ## Acknowledgements
-Quiz Forge was developed as part of the Java Object-Oriented Programming (OOP) project at Sindh Madressatul Islam University. Special thanks to the instructors and mentors for their guidance and support throughout the project.
+Quiz Forge was developed as part of the Java Object-Oriented Programming (OOP) project for my 2nd Semester in Bs-CyberSecurity at Sindh Madressatul Islam University. Special thanks to the instructors and mentors for their guidance and support throughout the project.
 
